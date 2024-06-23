@@ -1,5 +1,3 @@
-## RESUME
-
 **OSAGIE BELLO**  
 Front-end and Full-stack Developer  
 Experience: 5 years | Available: Immediately | Location: Lagos  
