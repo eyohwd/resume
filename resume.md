@@ -1,4 +1,4 @@
-**OSAGIE NOAH**  
+**OSAGIE BELLO**  
 Front-end and Full-stack Developer  
 Experience: 5 years | Available: Immediately | Location: Lagos  
 Email: osagienoah555@gmail.com | Phone: +2348080438476
@@ -69,5 +69,5 @@ Higher National Diploma (HND) | Bachelor of Engineering (B.Eng) in Mechatronics 
 - **TechStack Media Website**: Created a website with HTML, CSS, and JavaScript to teach web development concepts and showcase personal projects.  
   [View Project](https://techstackmedia.com)
 
-- **CBC EMEA Website**: Created a website with WordPress, PHP, and MySQL that showcase the innovative technology solutions capability of the company. 
-  [View Project](https://cbcemea.com)
+- **CBC EMEA Website**: Created a website with WordPress to showcase innovative technology solutions.  
+  [View Project](https://cbcema.com)
