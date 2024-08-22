@@ -67,7 +67,7 @@ Higher National Diploma (HND) | Bachelor of Engineering (B.Eng) in Mechatronics 
   [View Project](https://app.drugstoc.com)
 
 - **TechStack Media Website**: Created a website with HTML, CSS, and JavaScript to teach web development concepts and showcase personal projects.  
-  [View Project](https://techstackmedia.com)
+  [View Project](https://blog.techstackspace.com)
 
 - **CBC EMEA Website**: Created a website with WordPress to showcase innovative technology solutions.  
   [View Project](https://cbcema.com)
