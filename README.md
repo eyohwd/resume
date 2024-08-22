@@ -66,7 +66,7 @@ Higher National Diploma (HND) | Bachelor of Engineering (B.Eng) in Mechatronics 
 - **DrugStoc E-commerce Web App**: Contributed to the development of an e-commerce platform for ordering drugs online, utilizing React, CSS, Tailwind CSS, and Headless UI to create a seamless user experience.  
   [View Project](https://app.drugstoc.com)
 
-- **TechStack Media Website**: Created a website with HTML, CSS, and JavaScript to teach web development concepts and showcase personal projects.  
+- **TechStack Space Website**: Created a website with HTML, CSS, and JavaScript to teach web development concepts and showcase personal projects.  
   [View Project](https://blog.techstackspace.com)
 
 - **CBC EMEA Website**: Created a website with WordPress to showcase innovative technology solutions.  
