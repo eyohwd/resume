@@ -16,7 +16,7 @@ I am a dedicated and passionate front-end developer with over 5 years of experie
 **DrugStoc**  
 _Mid-level Front-end Engineer_  
 Lagos, Nigeria  
-July 2022 - Present
+July 2022 - 2024 (JULY)
 
 - **Developed and maintained e-commerce web applications**: Enhanced user experience and implemented new features to drive sales and customer satisfaction.
 - **App tracking system implementation**: Based on client/user data, optimized performance and provided valuable insights for business decision-making.
