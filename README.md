@@ -16,7 +16,7 @@ I am a dedicated and passionate front-end developer with over 5 years of experie
 **DrugStoc**  
 _Mid-level Front-end Engineer_  
 Lagos, Nigeria  
-July 2022 - 2024 (JULY)
+July 2022 - 2025 (APRIL)
 
 - **Developed and maintained e-commerce web applications**: Enhanced user experience and implemented new features to drive sales and customer satisfaction.
 - **App tracking system implementation**: Based on client/user data, optimized performance and provided valuable insights for business decision-making.
@@ -61,10 +61,13 @@ Higher National Diploma (HND) | Bachelor of Engineering (B.Eng) in Mechatronics 
 ### PORTFOLIO
 
 - **Pillometer AI Web App**: Developed a web application similar to ChatGPT, specializing in healthcare and pharmaceutical questions. Implemented authentication, password management, and other features using React, React Router, and CSS.  
-  [View Project](https://pillometer-ai-a045ed731d9a.herokuapp.com)
+  [View Project](https://pillometer.com/)
 
 - **DrugStoc E-commerce Web App**: Contributed to the development of an e-commerce platform for ordering drugs online, utilizing React, CSS, Tailwind CSS, and Headless UI to create a seamless user experience.  
   [View Project](https://app.drugstoc.com)
+
+- **DrugStoc Officail Web App**: Contributed to the development of DrugStoc’s web application and e-learning platform, leveraging Next.js and Bootstrap to deliver a seamless and responsive user experience. Collaborated with cross-functional teams to implement features that support healthcare providers in managing and procuring pharmaceutical products efficiently.  
+  [View Project](https://drugstoc.com)
 
 - **TechStack Space Website**: Created a website with HTML, CSS, and JavaScript to teach web development concepts and showcase personal projects.  
   [View Project](https://blog.techstackspace.com)
