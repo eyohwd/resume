@@ -2,12 +2,13 @@
 Front-end and Full-stack Developer  
 Experience: 5 years | Available: Immediately | Location: Lagos  
 Email: osagienoah555@gmail.com | Phone: +2348080438476
+Website: [techstackspace.com](https;//techstackspace.com)
 
 ---
 
 ### ABOUT ME
 
-I am a dedicated and passionate front-end developer with over 5 years of experience. My expertise lies in creating dynamic and engaging web applications using a variety of technologies, including React, Next.js, Vue.js, Angular, and GraphQL. I am highly adaptable, continuously learning new technologies to stay at the forefront of web development trends.
+I am a dedicated and passionate front-end and full-stack developer with over 5 years of experience. My expertise lies in creating dynamic and engaging web applications using a variety of technologies, including React, Next.js, Vue.js, Angular, Docker, and GraphQL. I am highly adaptable, continuously learning new technologies to stay at the forefront of web development trends. Lately, 
 
 ---
 
@@ -74,3 +75,5 @@ Higher National Diploma (HND) | Bachelor of Engineering (B.Eng) in Mechatronics 
 
 - **CBC EMEA Website**: Created a website with WordPress to showcase innovative technology solutions.  
   [View Project](https://cbcema.com)
+
+- **Showcase**: All my other projects can be found on the [showcase page](https://techstackspace.com/projects) of my website.
