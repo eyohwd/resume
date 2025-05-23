@@ -8,7 +8,7 @@ Website: [techstackspace.com](https;//techstackspace.com)
 
 ### ABOUT ME
 
-I am a dedicated and passionate front-end and full-stack developer with over 5 years of experience. My expertise lies in creating dynamic and engaging web applications using a variety of technologies, including React, Next.js, Vue.js, Angular, Docker, and GraphQL. I am highly adaptable, continuously learning new technologies to stay at the forefront of web development trends. Lately, 
+I am a dedicated and passionate front-end and full-stack developer with over 5 years of experience. My expertise lies in creating dynamic and engaging web applications using a variety of technologies, including React, Next.js, Vue.js, Angular, Docker, and GraphQL. I am highly adaptable, continuously learning new technologies to stay at the forefront of web development trends. 
 
 ---
 
