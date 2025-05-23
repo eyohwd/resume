@@ -1,7 +1,7 @@
 **OSAGIE BELLO**  
 Front-end and Full-stack Developer  
 Experience: 5 years | Available: Immediately | Location: Lagos  
-Email: osagienoah555@gmail.com | Phone: +2348080438476
+Email: osagienoah555@gmail.com | Phone: +2348080438476\
 Website: [techstackspace.com](https;//techstackspace.com)
 
 ---
