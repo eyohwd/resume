@@ -2,13 +2,13 @@
 Front-end and Full-stack Developer  
 Experience: 5 years | Available: Immediately | Location: Lagos  
 Email: osagienoah555@gmail.com | Phone: +2348080438476\
-Website: [techstackspace.com](https;//techstackspace.com)
+Website: [techstackspace.com](https://techstackspace.com) | YouTube: [TechStack Media](https://youtube.com/@techstackmedia)
 
 ---
 
 ### ABOUT ME
 
-I am a dedicated and passionate front-end and full-stack developer with over 5 years of experience. My expertise lies in creating dynamic and engaging web applications using a variety of technologies, including React, Next.js, Vue.js, Angular, Docker, and GraphQL. I am highly adaptable, continuously learning new technologies to stay at the forefront of web development trends. 
+I am a dedicated and passionate front-end and full-stack developer with over five years of experience. My expertise lies in creating dynamic and engaging web applications using a variety of technologies, including React, Next.js, Vue.js, Angular, Docker, and GraphQL. I am highly adaptable, continuously learning new technologies to stay at the forefront of web development trends. In addition to my development work, I actively mentor aspiring developers and share my knowledge by teaching web and mobile development on YouTube through my channel, [TechStack Media](https://youtube.com/@techstackmedia).
 
 ---
 
@@ -69,6 +69,9 @@ Higher National Diploma (HND) | Bachelor of Engineering (B.Eng) in Mechatronics 
 
 - **DrugStoc Officail Web App**: Contributed to the development of DrugStoc’s web application and e-learning platform, leveraging Next.js and Bootstrap to deliver a seamless and responsive user experience. Collaborated with cross-functional teams to implement features that support healthcare providers in managing and procuring pharmaceutical products efficiently.  
   [View Project](https://drugstoc.com)
+
+- **DrugStoc Learning Platform**: Enhanced DrugStoc’s e-learning platform by integrating interactive modules, including quizzes and simulations, to facilitate flexible, self-paced learning for healthcare providers. Implemented features that support continuing education credits and expert-led courses, ensuring high-quality content delivery.  
+  [View Project](https://www.drugstoc.com/learning)
 
 - **TechStack Space Website**: Created a website with HTML, CSS, and JavaScript to teach web development concepts and showcase personal projects.  
   [View Project](https://blog.techstackspace.com)
