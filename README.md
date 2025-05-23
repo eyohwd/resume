@@ -50,7 +50,7 @@ Higher National Diploma (HND) | Bachelor of Engineering (B.Eng) in Mechatronics 
 ### JOB SKILLS
 
 - **Proficient in**: React, Next.js, Vue.js, Angular, GraphQL, HTML5, CSS3, JavaScript (ES6+), TypeScript, Tailwind CSS, Sass, Bootstrap
-- **Experienced in**: WordPress, Express.js, Node.js, RESTful APIs, Webpack, Babel, Docker, CI/CD pipelines
+- **Experienced in**: WordPress, Express.js, Node.js, MongoDB, RESTful APIs, Webpack, Babel, Docker, CI/CD pipelines
 - **Testing**: Jest, Mocha, Chai, Cypress, Selenium
 - **Tools and Platforms**: Git, GitHub, Bitbucket, JIRA, Trello, Figma, Adobe XD
 - **Methodologies**: Agile, Scrum, Kanban
@@ -73,7 +73,7 @@ Higher National Diploma (HND) | Bachelor of Engineering (B.Eng) in Mechatronics 
 - **DrugStoc Learning Platform**: Enhanced DrugStoc’s e-learning platform by integrating interactive modules, including quizzes and simulations, to facilitate flexible, self-paced learning for healthcare providers. Implemented features that support continuing education credits and expert-led courses, ensuring high-quality content delivery.  
   [View Project](https://www.drugstoc.com/learning)
 
-- **TechStack Space Website**: Created a website with HTML, CSS, and JavaScript, abd ExpressJS to teach web development concepts and showcase personal projects.  
+- **TechStack Space Website**: Created a website with HTML, CSS, and JavaScript, Express.js, and MongoDB to teach web development concepts and showcase personal projects.  
   [View Project](https://blog.techstackspace.com)
 
 - **CBC EMEA Website**: Created a website with WordPress to showcase innovative technology solutions.  
