@@ -17,7 +17,7 @@ I am a dedicated and passionate full-stack developer with over six years of expe
 
 ### WORK EXPERIENCE
 
-**DrugStoc**
+**DrugStoc** \
 *Senior-level Front-end Engineer* \
 Lagos, Nigeria \
 July 2022 – May 2025
