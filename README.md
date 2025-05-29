@@ -5,7 +5,8 @@ Available: Immediately
 Location: Lagos \
 Email: [osagienoah555@gmail.com](mailto:osagienoah555@gmail.com) \
 Phone: +2348080438476 \
-Website: [techstackspace.com](https://techstackspace.com) | YouTube: [TechStack Media](https://youtube.com/@techstackmedia)
+Website: [techstackspace.com](https://techstackspace.com) \
+YouTube: [TechStack Media](https://youtube.com/@techstackmedia)
 
 ---
 
