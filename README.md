@@ -53,11 +53,11 @@ Bachelor of Engineering (B.Eng) in Mechatronics Engineering
 
 ### JOB SKILLS
 
-* **Backend Development**: Django, RESTful APIs, Third-party API Integration, Payment Gateway Integration
+* **Backend Development**: Django, Express, RESTful APIs, Third-party API Integration, Payment Gateway Integration
 * **Frontend Development**: React, Next.js, Vue.js, Angular
 * **Languages**: Python, JavaScript (ES6+), TypeScript, HTML5, CSS3
 * **Styling**: Tailwind CSS, Sass, Bootstrap
-* **Databases**: MongoDB
+* **Databases**: MongoDB, PostgreSQL
 * **DevOps & Tools**: Docker, CI/CD pipelines, Git, GitHub, Bitbucket
 * **Testing**: Jest, Mocha, Chai, Cypress, Selenium
 * **Project Management**: JIRA, Trello
